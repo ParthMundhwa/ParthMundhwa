@@ -76,7 +76,6 @@ Whether it's designing distributed pipelines, optimizing cloud workloads, or dep
 - **Kaggle Python Micro-Course** — Kaggle  
 - *(More coming soon: Azure DP-203, IBM Data Engineering)*
 
-> Upload your PDF/image files to a `certificates/` folder and I can link each one directly from here.
 
 ---
 
