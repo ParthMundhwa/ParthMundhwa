@@ -1,8 +1,7 @@
-
 <h1 align="center">👋 Hi, I'm Parth Mundhwa</h1>
 
 <p align="center">
-  🔹 <b>Data Platform Engineer • Cloud & Big Data Specialist • Big Data Engineer </b><br>
+  🔹 <b>Data Platform Engineer • Cloud & Big Data Specialist • Big Data Engineer</b><br>
   🔹 Designing scalable data pipelines and real-time systems<br>
   🔹 Spark ⚡ Kafka ⚡ Airflow ⚡ Azure ⚡ AWS ⚡ Docker ⚡ Python
 </p>
@@ -35,7 +34,7 @@ Whether it's designing distributed pipelines, optimizing cloud workloads, or dep
 ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?logo=apache-kafka&logoColor=white)
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?logo=apache-airflow&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=white)
-![DBT](https://img.shields.io/badge/dbt-FF694B?logo=dbt&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?logo=dbt&logoColor=white)
 
 **Cloud Platforms**  
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?logo=microsoft-azure&logoColor=white)
@@ -66,6 +65,18 @@ Whether it's designing distributed pipelines, optimizing cloud workloads, or dep
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
+
+---
+
+## 🏅 Certifications
+
+- **Cloudera Data Platform (CDP) Essentials** — Cloudera University  
+- **HackerRank SQL (Advanced)** — HackerRank  
+- **Python Data Structures (University of Michigan)** — Coursera  
+- **Kaggle Python Micro-Course** — Kaggle  
+- *(More coming soon: Azure DP-203, IBM Data Engineering)*
+
+> Upload your PDF/image files to a `certificates/` folder and I can link each one directly from here.
 
 ---
 
@@ -104,4 +115,4 @@ Built distributed Spark + Hadoop pipelines to dedupe 10M+ customer records
 
 ---
 
-<p align="center">⚡ _Solving data problems at scale. One pipeline at a time._</p>
+<p align="center">⚡ <i>Solving data problems at scale. One pipeline at a time.</i></p>
