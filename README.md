@@ -142,3 +142,10 @@ Built distributed Spark + Hadoop pipelines to dedupe 10M+ customer records
 ---
 
 <p align="center">⚡ <i>Solving data problems at scale. One pipeline at a time.</i></p>
+
+---
+
+## 
+
+![GitHub Snake Light](https://raw.githubusercontent.com/ParthMundhwa/ParthMundhwa/output/github-contribution-grid-snake.svg)
+
