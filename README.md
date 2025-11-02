@@ -135,8 +135,7 @@ Built distributed Spark + Hadoop pipelines to dedupe 10M+ customer records
 
   <!-- This year's contributions graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ParthMundhwa&theme=react-dark&custom_title=Contributions%20in%202025" height="165"/>
-  <!-- 2025 Contributions Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ParthMundhwa&theme=react-dark&custom_title=Contributions%20in%202025&hide_border=true" height="165" />
+
 
 </p>
 ---
