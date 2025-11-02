@@ -4,7 +4,7 @@
 <p align="center">
   🔹 <b>Data Platform Engineer • Cloud & Big Data Specialist • Big Data Engineer </b><br>
   🔹 Designing scalable data pipelines and real-time systems<br>
-  🔹 Spark ⚡ Kafka ⚡ Airflow ⚡ Azure ⚡ Docker ⚡ Python
+  🔹 Spark ⚡ Kafka ⚡ Airflow ⚡ Azure ⚡ AWS ⚡ Docker ⚡ Python
 </p>
 
 ---
@@ -99,7 +99,7 @@ Built distributed Spark + Hadoop pipelines to dedupe 10M+ customer records
 
 <p align="center">
   <a href="https://www.linkedin.com/in/parthmundhwa"><img src="https://img.shields.io/badge/LinkedIn-0077b5?logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:parthmundhwa7@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+  <a href="mailto:parthmundhwa8@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
