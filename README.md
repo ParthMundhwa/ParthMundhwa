@@ -146,6 +146,7 @@ Built distributed Spark + Hadoop pipelines to dedupe 10M+ customer records
 <p align="center">⚡ <i>Solving data problems at scale. One pipeline at a time.</i></p>
 
 ---
+![Profile Views](https://komarev.com/ghpvc/?username=ParthMundhwa&color=blue)
 
 ## 🐍 GitHub Contribution Snake
 
