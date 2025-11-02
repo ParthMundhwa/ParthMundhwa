@@ -2,7 +2,7 @@
 <h1 align="center">👋 Hi, I'm Parth Mundhwa</h1>
 
 <p align="center">
-  🔹 <b>Data Platform Engineer • Cloud & Big Data Specialist</b><br>
+  🔹 <b>Data Platform Engineer • Cloud & Big Data Specialist • Big Data Engineer </b><br>
   🔹 Designing scalable data pipelines and real-time systems<br>
   🔹 Spark ⚡ Kafka ⚡ Airflow ⚡ Azure ⚡ Docker ⚡ Python
 </p>
