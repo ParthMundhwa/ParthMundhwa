@@ -70,11 +70,36 @@ Whether it's designing distributed pipelines, optimizing cloud workloads, or dep
 
 ## 🏅 Certifications
 
-- **Cloudera Data Platform (CDP) Essentials** — Cloudera University  
-- **HackerRank SQL (Advanced)** — HackerRank  
-- **Python Data Structures (University of Michigan)** — Coursera  
-- **Kaggle Python Micro-Course** — Kaggle  
-- *(More coming soon: Azure DP-203, IBM Data Engineering)*
+- **Google Analytics Certification** — Skillshop (Google)  
+  [📄 View Certificate](https://skillshop.credential.net/e4199f03-b465-4af4-9d2b-eeccece99537#acc.93ydNQEl)
+
+- **HackerRank SQL (Advanced)**  
+  [📄 View Certificate](https://www.hackerrank.com/certificates/31e26a0bcaaa)
+
+- **IBM Data Engineering Professional Certificate** — Coursera  
+  [📄 Database Essentials](https://www.coursera.org/account/accomplishments/verify/UV9535M2YL8W)  
+  [📄 Python for Data Science](https://www.coursera.org/account/accomplishments/verify/4R9I7YL83VGY)
+
+- **Python (Beginner to Expert)** — Kaggle  
+  [📄 View Certificate](https://www.kaggle.com/learn/certification/parthmundhwas/python)
+
+- **Cloudera Data Platform (CDP) Essentials** — Credly  
+  [📄 View Badge](https://www.credly.com/badges/f307896d-2813-40d6-97f2-83c23571e831/linked_in_profile)
+
+- **HackerRank Problem Solving (Basic)**  
+  [📄 View Certificate](https://www.hackerrank.com/certificates/ebf67691b8fb)
+
+- **HackerRank Python (Basic)**  
+  [📄 View Certificate](https://www.hackerrank.com/certificates/10f55843769a)
+
+- **HackerRank SQL (Basic)**  
+  [📄 View Certificate](https://www.hackerrank.com/certificates/abd4b8489b2c)
+
+- **HackerRank REST API (Intermediate)**  
+  [📄 View Certificate](https://www.hackerrank.com/certificates/207f70921a92)
+
+
+
 
 
 ---
