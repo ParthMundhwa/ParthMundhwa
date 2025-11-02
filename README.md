@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ParthMundhwa/ParthMundhwa/main/assets/banner.png" width="100%">
+  <img src="https://raw.githubusercontent.com/ParthMundhwa/ParthMundhwa/blob/main/assets/banner.png" width="100%">
 </p>
 
 <p align="center">
