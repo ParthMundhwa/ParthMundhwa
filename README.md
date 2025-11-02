@@ -1,4 +1,4 @@
-# ParthMundwha
+
 <h1 align="center">👋 Hi, I'm Parth Mundhwa</h1>
 
 <p align="center">
