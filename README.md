@@ -79,8 +79,8 @@ Whether it's designing distributed pipelines, optimizing cloud workloads, or dep
 - **University of Michigan** — Coursera  
   [📄 Python for Data Science](https://www.coursera.org/account/accomplishments/verify/4R9I7YL83VGY)
   
-- **Google Database Essentials** — Coursera
-  [📄 Database Essentials](https://www.coursera.org/account/accomplishments/verify/UV9535M2YL8W)  
+- **Google Cloud Platform** — Coursera
+  [📄 Introduction to Data Analytics in Google Cloud](https://www.coursera.org/account/accomplishments/verify/UV9535M2YL8W)  
 
 - **Python (Beginner to Expert)** — Kaggle  
   [📄 View Certificate](https://www.kaggle.com/learn/certification/parthmundhwas/python)
