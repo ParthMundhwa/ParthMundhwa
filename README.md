@@ -108,21 +108,6 @@ Whether it's designing distributed pipelines, optimizing cloud workloads, or dep
 
 ---
 
-## 🌟 Featured Projects
-
-### 🩺 Healthcare Data Pipeline Modernization  
-Migrated legacy ETL pipelines to Spark Streaming + Kafka in a 6-node Hadoop cluster  
-➡ Reduced processing latency by 15%  
-➡ Improved pipeline uptime from 84% to 96%  
-🔗 _[Repo Coming Soon]_  
-
-### 🛒 Customer Data Platform (Retail)  
-Built distributed Spark + Hadoop pipelines to dedupe 10M+ customer records  
-➡ Cut redundant data by 90%  
-➡ Delivered real-time profiles using Apache Ignite + Elasticsearch  
-🔗 _[Repo Coming Soon]_
-
----
 
 ## 📊 GitHub Stats
 
