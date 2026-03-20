@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-I'm a Data Engineer with 5+ years of experience building end-to-end data solutions for fast-growing companies across retail, healthcare, and SaaS
+I'm a Data Engineer with 5+ years of experience building end-to-end data solutions for fast-growing companies across retail, healthcare, and SaaS.
 
 Whether it's designing distributed pipelines, optimizing cloud workloads, or deploying production-ready data apps — I love turning raw data into actionable insights. My work bridges software engineering, DevOps, and data analytics to build fast, scalable, and cost-effective data systems.
 
