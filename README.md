@@ -16,7 +16,7 @@ I'm a Data Engineer with 5+ years of experience building end-to-end data solutio
 
 Whether it's designing distributed pipelines, optimizing cloud workloads, or deploying production-ready data apps — I love turning raw data into actionable insights. My work bridges software engineering, DevOps, and data analytics to build fast, scalable, and cost-effective data systems.
 
-> “Great data engineering isn’t just ETL — it’s engineering with empathy for the people and systems that depend on it.”
+> “Great data engineering isn’t just ETL. it’s engineering with empathy for the people and systems that depend on it.”
 
 ---
 
